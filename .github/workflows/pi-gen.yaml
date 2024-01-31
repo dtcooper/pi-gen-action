@@ -48,7 +48,7 @@ jobs:
           verbose-output: true
           enable-noobs: true
           compression: xz
-          compression-level: 9
+          compression-level: 9e
           locale: de_DE.UTF-8
           hostname: pi-gen-test
           keyboard-keymap: de
